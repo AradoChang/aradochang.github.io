@@ -1,0 +1,256 @@
+{
+    "version": "0.4",
+    "title": "Janelas Tab Case Box 01",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-portfolio",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "6f87e4ae",
+            "settings": {
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "5e59ad20",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "210c57c6",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/case-01.jpg",
+                                    "id": 1324,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "title": "Maximus libero ornare ",
+                                "description": "Nec vehicula ",
+                                "button_text": "",
+                                "wrap_align": "left",
+                                "show_image_overlay": "",
+                                "content_style": "style-2",
+                                "content_effect": "fade-in-up",
+                                "content_padding": {
+                                    "unit": "px",
+                                    "top": "35",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "39",
+                                    "isLinked": false
+                                },
+                                "content_margin": {
+                                    "unit": "px",
+                                    "top": "236",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "content_box_shadow_box_shadow_type": "yes",
+                                "content_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 10,
+                                    "blur": 30,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0.07)"
+                                },
+                                "content_background_color": "#FFFFFF",
+                                "icon_spacer": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Rajdhani",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "title_typography_font_weight": "bold",
+                                "title_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "title_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "title_color": "#434E6E",
+                                "title_color_hover": "#E3CCA1",
+                                "title_spacer": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "10",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "description_spacer": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-67",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "button_align": "right",
+                                "button_padding": {
+                                    "unit": "px",
+                                    "top": "16",
+                                    "right": "17",
+                                    "bottom": "9",
+                                    "left": "16",
+                                    "isLinked": false
+                                },
+                                "button_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "15",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "button_color": "#434E6E",
+                                "button_bg_color": "#E3CCA1",
+                                "icon_button": {
+                                    "value": "fas fa-arrow-right",
+                                    "library": "fa-solid"
+                                },
+                                "button_icon_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "button_icon_spacer": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 10,
+                                    "blur": 30,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0.07)"
+                                },
+                                "__globals__": {
+                                    "content_background_color": "globals\/colors?id=primary",
+                                    "button_bg_color": "globals\/colors?id=secondary",
+                                    "button_color": "globals\/colors?id=primary",
+                                    "title_color": "globals\/colors?id=a6579ca",
+                                    "title_color_hover": "globals\/colors?id=secondary",
+                                    "title_typography_typography": "",
+                                    "description_typography_typography": "globals\/typography?id=text",
+                                    "button_bg_color_hover": "globals\/colors?id=a6579ca",
+                                    "description_color": "globals\/colors?id=a6579ca",
+                                    "button_color_hover": "globals\/colors?id=primary"
+                                },
+                                "content_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "35",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "content_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "200",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "content_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "185",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "description_spacer_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "80",
+                                    "bottom": "-65",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "button_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "description_spacer_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-56",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "tfimagebox",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

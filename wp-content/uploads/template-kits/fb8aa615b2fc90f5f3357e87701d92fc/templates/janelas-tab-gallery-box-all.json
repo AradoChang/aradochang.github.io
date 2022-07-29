@@ -1,0 +1,172 @@
+{
+    "version": "0.4",
+    "title": "Janelas Tab Gallery Box All",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-gallery",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "48b2aaf3",
+            "settings": {
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "12ebe853",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "2b99cdc1",
+                            "settings": {
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "7251e1d9",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null,
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3f8ede6d",
+                                            "settings": {
+                                                "wp_gallery": [
+                                                    {
+                                                        "id": 1497,
+                                                        "url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/gallery-01.jpg"
+                                                    },
+                                                    {
+                                                        "id": 1498,
+                                                        "url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/gallery-02.jpg"
+                                                    },
+                                                    {
+                                                        "id": 1499,
+                                                        "url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/gallery-03.jpg"
+                                                    },
+                                                    {
+                                                        "id": 1500,
+                                                        "url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/gallery-04.jpg"
+                                                    },
+                                                    {
+                                                        "id": 1501,
+                                                        "url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/gallery-05.jpg"
+                                                    },
+                                                    {
+                                                        "id": 1502,
+                                                        "url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/gallery-06.jpg"
+                                                    },
+                                                    {
+                                                        "id": 1503,
+                                                        "url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/gallery-07.jpg"
+                                                    },
+                                                    {
+                                                        "id": 1504,
+                                                        "url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/gallery-08.jpg"
+                                                    },
+                                                    {
+                                                        "id": 1505,
+                                                        "url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/gallery-09.jpg"
+                                                    }
+                                                ],
+                                                "thumbnail_size": "full",
+                                                "gallery_columns": "3",
+                                                "image_spacing": "custom",
+                                                "image_spacing_custom": {
+                                                    "unit": "px",
+                                                    "size": 30,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image-gallery",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

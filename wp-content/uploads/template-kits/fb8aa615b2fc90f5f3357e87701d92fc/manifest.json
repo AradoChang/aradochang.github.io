@@ -1,0 +1,1771 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "Janelas \u2013 Windows & Doors Services",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/surielementor.com\/janelaskit",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/surielementor.com\/janelaskit\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer Style 01",
+            "screenshot": "screenshots\/footer-style-01.jpg",
+            "source": "templates\/footer-style-01.json",
+            "preview_url": "https:\/\/surielementor.com\/janelaskit\/template-kit\/footer-style-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer Style 02",
+            "screenshot": "screenshots\/footer-style-02.jpg",
+            "source": "templates\/footer-style-02.json",
+            "preview_url": "https:\/\/surielementor.com\/janelaskit\/template-kit\/footer-style-02\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Janelas Tab Testimonials Box 01",
+            "screenshot": "screenshots\/janelas-tab-testimonials-box-01.jpg",
+            "source": "templates\/janelas-tab-testimonials-box-01.json",
+            "preview_url": "https:\/\/surielementor.com\/janelaskit\/template-kit\/janelas-tab-testimonials-box-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Janelas Tab Portfolio Box All",
+            "screenshot": "screenshots\/janelas-tab-portfolio-box-all.jpg",
+            "source": "templates\/janelas-tab-portfolio-box-all.json",
+            "preview_url": "https:\/\/surielementor.com\/janelaskit\/template-kit\/janelas-tab-portfolio-box-all\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Janelas Tab Gallery Box All",
+            "screenshot": "screenshots\/janelas-tab-gallery-box-all.jpg",
+            "source": "templates\/janelas-tab-gallery-box-all.json",
+            "preview_url": "https:\/\/surielementor.com\/janelaskit\/template-kit\/janelas-tab-gallery-box-all\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-gallery",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Janelas Tab Case Box All",
+            "screenshot": "screenshots\/janelas-tab-case-box-all.jpg",
+            "source": "templates\/janelas-tab-case-box-all.json",
+            "preview_url": "https:\/\/surielementor.com\/janelaskit\/template-kit\/janelas-tab-case-box-all\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Janelas Tab Case Box 01",
+            "screenshot": "screenshots\/janelas-tab-case-box-01.jpg",
+            "source": "templates\/janelas-tab-case-box-01.json",
+            "preview_url": "https:\/\/surielementor.com\/janelaskit\/template-kit\/janelas-tab-case-box-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Janelas Form Messsage Home",
+            "screenshot": "screenshots\/janelas-form-messsage-home.jpg",
+            "source": "templates\/janelas-form-messsage-home.json",
+            "preview_url": "https:\/\/surielementor.com\/janelaskit\/template-kit\/janelas-form-messsage-home\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Subscribe Home",
+            "screenshot": "screenshots\/form-subscribe-home.jpg",
+            "source": "templates\/form-subscribe-home.json",
+            "preview_url": "https:\/\/surielementor.com\/janelaskit\/template-kit\/form-subscribe-home\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Janelas Form Subscribe Footer",
+            "screenshot": "screenshots\/janelas-form-subscribe-footer.jpg",
+            "source": "templates\/janelas-form-subscribe-footer.json",
+            "preview_url": "https:\/\/surielementor.com\/janelaskit\/template-kit\/janelas-form-subscribe-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Janelas Form Message Contact",
+            "screenshot": "screenshots\/janelas-form-message-contact.jpg",
+            "source": "templates\/janelas-form-message-contact.json",
+            "preview_url": "https:\/\/surielementor.com\/janelaskit\/template-kit\/janelas-form-message-contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/surielementor.com\/janelaskit\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/surielementor.com\/janelaskit\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/surielementor.com\/janelaskit\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Details",
+            "screenshot": "screenshots\/service-details.jpg",
+            "source": "templates\/service-details.json",
+            "preview_url": "https:\/\/surielementor.com\/janelaskit\/template-kit\/service-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog Grid",
+            "screenshot": "screenshots\/blog-grid.jpg",
+            "source": "templates\/blog-grid.json",
+            "preview_url": "https:\/\/surielementor.com\/janelaskit\/template-kit\/blog-grid\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/surielementor.com\/janelaskit\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Case Study",
+            "screenshot": "screenshots\/case-study.jpg",
+            "source": "templates\/case-study.json",
+            "preview_url": "https:\/\/surielementor.com\/janelaskit\/template-kit\/case-study\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Case Study Details",
+            "screenshot": "screenshots\/case-study-details.jpg",
+            "source": "templates\/case-study-details.json",
+            "preview_url": "https:\/\/surielementor.com\/janelaskit\/template-kit\/case-study-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/surielementor.com\/janelaskit\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.4.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.3.6",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.5.4",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Themesflat Addons For Elementor",
+            "version": "1.8.5",
+            "file": "themesflat-addons-for-elementor\/themesflat-addons-for-elementor.php",
+            "author": "Themesflat"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Logo-Dark.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/Logo-Dark.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 3947,
+            "dimensions": [
+                159,
+                70
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Logo-light.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/Logo-light.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer-style-01.json",
+                    "name": "Footer Style 01"
+                },
+                {
+                    "source": "templates\/footer-style-02.json",
+                    "name": "Footer Style 02"
+                }
+            ],
+            "filesize": 3775,
+            "dimensions": [
+                159,
+                70
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "bg-footer1.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/09\/bg-footer1-800x350.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-02.json",
+                    "name": "Footer Style 02"
+                }
+            ],
+            "filesize": 268252,
+            "dimensions": [
+                1920,
+                839
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PWENRRE"
+        },
+        {
+            "filename": "img_testimonial-PHVLNAU.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/09\/img_testimonial-PHVLNAU.jpg",
+            "templates": [
+                {
+                    "source": "templates\/janelas-tab-testimonials-box-01.json",
+                    "name": "Janelas Tab Testimonials Box 01"
+                }
+            ],
+            "filesize": 7969,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PHVLNAU"
+        },
+        {
+            "filename": "shower-with-glass-door-P95UKKZ.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/shower-with-glass-door-P95UKKZ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/janelas-tab-portfolio-box-all.json",
+                    "name": "Janelas Tab Portfolio Box All"
+                }
+            ],
+            "filesize": 154747,
+            "dimensions": [
+                570,
+                372
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P95UKKZ"
+        },
+        {
+            "filename": "portfolio-3.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/portfolio-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/janelas-tab-portfolio-box-all.json",
+                    "name": "Janelas Tab Portfolio Box All"
+                }
+            ],
+            "filesize": 139407,
+            "dimensions": [
+                570,
+                372
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P5MMFRL"
+        },
+        {
+            "filename": "empty-living-room-4233VH2.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/empty-living-room-4233VH2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/janelas-tab-portfolio-box-all.json",
+                    "name": "Janelas Tab Portfolio Box All"
+                }
+            ],
+            "filesize": 152219,
+            "dimensions": [
+                570,
+                372
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4233VH2"
+        },
+        {
+            "filename": "portfolio-4.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/portfolio-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/janelas-tab-portfolio-box-all.json",
+                    "name": "Janelas Tab Portfolio Box All"
+                }
+            ],
+            "filesize": 153758,
+            "dimensions": [
+                570,
+                372
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BH8RW9R"
+        },
+        {
+            "filename": "portfolio-5.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/portfolio-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/janelas-tab-portfolio-box-all.json",
+                    "name": "Janelas Tab Portfolio Box All"
+                }
+            ],
+            "filesize": 220304,
+            "dimensions": [
+                570,
+                774
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PUBJXKU"
+        },
+        {
+            "filename": "gallery-01.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/gallery-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/janelas-tab-gallery-box-all.json",
+                    "name": "Janelas Tab Gallery Box All"
+                }
+            ],
+            "filesize": 74554,
+            "dimensions": [
+                370,
+                260
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Z5AQT8B"
+        },
+        {
+            "filename": "gallery-02.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/gallery-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/janelas-tab-gallery-box-all.json",
+                    "name": "Janelas Tab Gallery Box All"
+                }
+            ],
+            "filesize": 43544,
+            "dimensions": [
+                370,
+                260
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P6VE7XM"
+        },
+        {
+            "filename": "gallery-03.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/gallery-03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/janelas-tab-gallery-box-all.json",
+                    "name": "Janelas Tab Gallery Box All"
+                }
+            ],
+            "filesize": 70831,
+            "dimensions": [
+                370,
+                260
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PUBJXKU"
+        },
+        {
+            "filename": "gallery-04.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/gallery-04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/janelas-tab-gallery-box-all.json",
+                    "name": "Janelas Tab Gallery Box All"
+                }
+            ],
+            "filesize": 72252,
+            "dimensions": [
+                370,
+                260
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PNC6FKR"
+        },
+        {
+            "filename": "gallery-05.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/gallery-05.jpg",
+            "templates": [
+                {
+                    "source": "templates\/janelas-tab-gallery-box-all.json",
+                    "name": "Janelas Tab Gallery Box All"
+                }
+            ],
+            "filesize": 91519,
+            "dimensions": [
+                370,
+                260
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ADABSLV"
+        },
+        {
+            "filename": "gallery-06.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/gallery-06.jpg",
+            "templates": [
+                {
+                    "source": "templates\/janelas-tab-gallery-box-all.json",
+                    "name": "Janelas Tab Gallery Box All"
+                }
+            ],
+            "filesize": 58890,
+            "dimensions": [
+                370,
+                260
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P3EE9TF"
+        },
+        {
+            "filename": "gallery-07.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/gallery-07.jpg",
+            "templates": [
+                {
+                    "source": "templates\/janelas-tab-gallery-box-all.json",
+                    "name": "Janelas Tab Gallery Box All"
+                }
+            ],
+            "filesize": 53804,
+            "dimensions": [
+                370,
+                260
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-REW46XY"
+        },
+        {
+            "filename": "gallery-08.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/gallery-08.jpg",
+            "templates": [
+                {
+                    "source": "templates\/janelas-tab-gallery-box-all.json",
+                    "name": "Janelas Tab Gallery Box All"
+                }
+            ],
+            "filesize": 80809,
+            "dimensions": [
+                370,
+                260
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P95UKKZ"
+        },
+        {
+            "filename": "gallery-09.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/gallery-09.jpg",
+            "templates": [
+                {
+                    "source": "templates\/janelas-tab-gallery-box-all.json",
+                    "name": "Janelas Tab Gallery Box All"
+                }
+            ],
+            "filesize": 81222,
+            "dimensions": [
+                370,
+                260
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P6R44JQ"
+        },
+        {
+            "filename": "case-01.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/case-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/janelas-tab-case-box-all.json",
+                    "name": "Janelas Tab Case Box All"
+                },
+                {
+                    "source": "templates\/janelas-tab-case-box-01.json",
+                    "name": "Janelas Tab Case Box 01"
+                }
+            ],
+            "filesize": 95617,
+            "dimensions": [
+                370,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-45GPYCD"
+        },
+        {
+            "filename": "case-02.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/case-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/janelas-tab-case-box-all.json",
+                    "name": "Janelas Tab Case Box All"
+                }
+            ],
+            "filesize": 66267,
+            "dimensions": [
+                370,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EQSGXA8"
+        },
+        {
+            "filename": "case-03.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/case-03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/janelas-tab-case-box-all.json",
+                    "name": "Janelas Tab Case Box All"
+                }
+            ],
+            "filesize": 96453,
+            "dimensions": [
+                370,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4233VH2"
+        },
+        {
+            "filename": "case-04.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/case-04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/janelas-tab-case-box-all.json",
+                    "name": "Janelas Tab Case Box All"
+                }
+            ],
+            "filesize": 84949,
+            "dimensions": [
+                370,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PUBJXKU"
+        },
+        {
+            "filename": "case-05.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/case-05.jpg",
+            "templates": [
+                {
+                    "source": "templates\/janelas-tab-case-box-all.json",
+                    "name": "Janelas Tab Case Box All"
+                }
+            ],
+            "filesize": 99092,
+            "dimensions": [
+                370,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BH8RW9R"
+        },
+        {
+            "filename": "case-06.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/case-06.jpg",
+            "templates": [
+                {
+                    "source": "templates\/janelas-tab-case-box-all.json",
+                    "name": "Janelas Tab Case Box All"
+                }
+            ],
+            "filesize": 91351,
+            "dimensions": [
+                370,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P5MMFRL"
+        },
+        {
+            "filename": "case-07.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/case-07.jpg",
+            "templates": [
+                {
+                    "source": "templates\/janelas-tab-case-box-all.json",
+                    "name": "Janelas Tab Case Box All"
+                }
+            ],
+            "filesize": 83750,
+            "dimensions": [
+                370,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QMHNSLG"
+        },
+        {
+            "filename": "case-08.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/case-08.jpg",
+            "templates": [
+                {
+                    "source": "templates\/janelas-tab-case-box-all.json",
+                    "name": "Janelas Tab Case Box All"
+                }
+            ],
+            "filesize": 94375,
+            "dimensions": [
+                370,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Z5AQT8B"
+        },
+        {
+            "filename": "case-09.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/case-09.jpg",
+            "templates": [
+                {
+                    "source": "templates\/janelas-tab-case-box-all.json",
+                    "name": "Janelas Tab Case Box All"
+                }
+            ],
+            "filesize": 107619,
+            "dimensions": [
+                370,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XDZBXFJ"
+        },
+        {
+            "filename": "bg-slide.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/bg-slide-800x408.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 11448,
+            "dimensions": [
+                1920,
+                980
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shape-slider.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/shape-slider.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 19725,
+            "dimensions": [
+                615,
+                646
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Place-Your-Image-Here-Double-Click-to-Edit.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/Place-Your-Image-Here-Double-Click-to-Edit.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 224626,
+            "dimensions": [
+                531,
+                544
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BH8RW9R"
+        },
+        {
+            "filename": "54680-living-room-ADABSLV.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/54680-living-room-ADABSLV.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 229018,
+            "dimensions": [
+                500,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ADABSLV"
+        },
+        {
+            "filename": "light-living-room-PUBJXKU.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/light-living-room-PUBJXKU.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 64816,
+            "dimensions": [
+                370,
+                240
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PUBJXKU"
+        },
+        {
+            "filename": "luxurious-living-room-QMHNSLG.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/luxurious-living-room-QMHNSLG.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 59186,
+            "dimensions": [
+                370,
+                240
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QMHNSLG"
+        },
+        {
+            "filename": "scandynavian-style-living-room-PNC6FKR.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/scandynavian-style-living-room-PNC6FKR.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 66933,
+            "dimensions": [
+                370,
+                240
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PNC6FKR"
+        },
+        {
+            "filename": "living-room-with-fireplace-P5MMFRL.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/living-room-with-fireplace-P5MMFRL.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 234386,
+            "dimensions": [
+                570,
+                669
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P5MMFRL"
+        },
+        {
+            "filename": "tall-window.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/tall-window.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 679,
+            "dimensions": [
+                50,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "tall-window-2.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/tall-window-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 741,
+            "dimensions": [
+                50,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "fix-window.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/fix-window.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 661,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "Ellipse-window.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/Ellipse-window.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1886,
+            "dimensions": [
+                38,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "casement-window.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/casement-window.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1590,
+            "dimensions": [
+                42,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "sliding-glass-door.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/sliding-glass-door.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 959,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "wood-door.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/wood-door.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1755,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "four-panel-door.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/four-panel-door.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 492,
+            "dimensions": [
+                38,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "door-and-fix-window.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/door-and-fix-window.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 528,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "double-door.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/double-door.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 550,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "living-room-Z5AQT8B.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/living-room-Z5AQT8B.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 142763,
+            "dimensions": [
+                570,
+                490
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Z5AQT8B"
+        },
+        {
+            "filename": "modern-living-room-in-a-loft-2PSMBH3.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/modern-living-room-in-a-loft-2PSMBH3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 166893,
+            "dimensions": [
+                450,
+                617
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2PSMBH3"
+        },
+        {
+            "filename": "logo-01.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/logo-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3838,
+            "dimensions": [
+                159,
+                83
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-02.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/logo-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3329,
+            "dimensions": [
+                94,
+                66
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-03.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/logo-03.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3911,
+            "dimensions": [
+                168,
+                68
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-04.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/logo-04.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3773,
+            "dimensions": [
+                148,
+                82
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-05.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/logo-05.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3901,
+            "dimensions": [
+                140,
+                80
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "bg-pagetitle.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/bg-pagetitle-800x208.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/blog-grid.json",
+                    "name": "Blog Grid"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/case-study.json",
+                    "name": "Case Study"
+                },
+                {
+                    "source": "templates\/case-study-details.json",
+                    "name": "Case Study Details"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 238019,
+            "dimensions": [
+                1920,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PWENRRE"
+        },
+        {
+            "filename": "giant-building-with-sun.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/giant-building-with-sun.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 74991,
+            "dimensions": [
+                370,
+                260
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/giant-building-with-sun_921709.htm"
+        },
+        {
+            "filename": "workman-adjusting-window-frames-at-home-45GPYCD.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/workman-adjusting-window-frames-at-home-45GPYCD.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 69741,
+            "dimensions": [
+                370,
+                260
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-45GPYCD"
+        },
+        {
+            "filename": "living-room-with-fireplace-P531231MMFRL.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/living-room-with-fireplace-P531231MMFRL.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 73051,
+            "dimensions": [
+                370,
+                260
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-31MMFRL"
+        },
+        {
+            "filename": "services-01.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/services-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 56534,
+            "dimensions": [
+                325,
+                230
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P6R44JQ"
+        },
+        {
+            "filename": "icon-service-1.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/icon-service-1.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 1817,
+            "dimensions": [
+                34,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "services-02.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/services-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 50859,
+            "dimensions": [
+                325,
+                230
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-E6MRKQ5"
+        },
+        {
+            "filename": "icon-service-2.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/icon-service-2.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1948,
+            "dimensions": [
+                64,
+                36
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "services-03.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/services-03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 53115,
+            "dimensions": [
+                325,
+                230
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PNC6FKR"
+        },
+        {
+            "filename": "icon-service-3.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/icon-service-3.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 531,
+            "dimensions": [
+                38,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "services-04.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/services-04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 46852,
+            "dimensions": [
+                325,
+                230
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QMHNSLG"
+        },
+        {
+            "filename": "icon-service-4.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/icon-service-4.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 2074,
+            "dimensions": [
+                50,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "services-05.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/services-05.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 66386,
+            "dimensions": [
+                325,
+                230
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XDZBXFJ"
+        },
+        {
+            "filename": "icon-service-5.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/icon-service-5.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 459,
+            "dimensions": [
+                36,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "services-06.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/services-06.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 60222,
+            "dimensions": [
+                325,
+                230
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Z5AQT8B"
+        },
+        {
+            "filename": "icon-service-6.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/icon-service-6.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1755,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "living-room-BH8RW9R.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/living-room-BH8RW9R.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 184237,
+            "dimensions": [
+                470,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BH8RW9R"
+        },
+        {
+            "filename": "Rectangle-1.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/Rectangle-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 58800,
+            "dimensions": [
+                308,
+                246
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PNC6FKR"
+        },
+        {
+            "filename": "fyufy.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/fyufy.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 239297,
+            "dimensions": [
+                770,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PUBJXKU"
+        },
+        {
+            "filename": "luxury-living-room-XDZBXFJ.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/luxury-living-room-XDZBXFJ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 84769,
+            "dimensions": [
+                370,
+                270
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XDZBXFJ"
+        },
+        {
+            "filename": "tall-window1.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/tall-window1.png",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 741,
+            "dimensions": [
+                50,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "four-panel-door-1.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/four-panel-door-1.png",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 492,
+            "dimensions": [
+                38,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "Rectangle-549.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/Rectangle-549-800x429.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-study-details.json",
+                    "name": "Case Study Details"
+                }
+            ],
+            "filesize": 472435,
+            "dimensions": [
+                1170,
+                628
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PWENRRE"
+        },
+        {
+            "filename": "case-details.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/janelaskit\/wp-content\/uploads\/2021\/08\/case-details.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-study-details.json",
+                    "name": "Case Study Details"
+                }
+            ],
+            "filesize": 158154,
+            "dimensions": [
+                570,
+                452
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PNC6FKR"
+        }
+    ]
+}
